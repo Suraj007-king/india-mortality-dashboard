@@ -91,5 +91,6 @@ This project is open-source under the **MIT License**.
 
  Contact
 
-For questions or collaborations, feel free to connect via [LinkedIn](www.linkedin.com/in/surajkadam07).
+For questions or collaborations, feel free to connect via ([LinkedIn](https://www.linkedin.com/in/surajkadam07)
+).
 
