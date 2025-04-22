@@ -75,7 +75,8 @@ To analyze and visualize India's mortality and life expectancy using a combinati
 
 **Suraj Kadam**  
 BCA ( Analytics) Student  
-[LinkedIn](www.linkedin.com/in/surajkadam07) | [GitHub](https://github.com/Suraj007-king)
+([LinkedIn](https://www.linkedin.com/in/surajkadam07)
+) | [GitHub](https://github.com/Suraj007-king)
 
 ---
 
